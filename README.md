@@ -41,4 +41,8 @@ An AI-powered course creation platform built with Next.js, React, PostgreSQL, an
 
 ## Author
 
-GitHub: https://github.com/kuditheeritarun
+## Author
+
+## Author
+
+GitHub: [kuditheeritarun](https://github.com/kuditheeritarun)
